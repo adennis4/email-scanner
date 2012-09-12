@@ -26,4 +26,6 @@ The **:name key** uses regular expressions to find any string in quotes immediat
 **Invalid** => Andrew Dennis
 
 ### Expected Output
-`[{:name => "Andrew Dennis", :email => "example@gmail.com"}, {:name => "Foo Bar", :email => "foo.bar@gmail.com"}, {:name => "Lionel Messi", :email => "MyLeftFoot@aol.com"}]`
+`[{:name => "Andrew Dennis", :email => "example@gmail.com"}, 
+{:name => "Foo Bar", :email => "foo.bar@gmail.com"}, 
+{:name => "Lionel Messi", :email => "MyLeftFoot@aol.com"}]`
