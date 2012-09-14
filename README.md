@@ -1,4 +1,4 @@
-# Email Scanner
+# email-scanner
 
 ## Overview
 
